@@ -1,0 +1,9 @@
+export const TEXT_BLUE_COLOR = '#5791DE';
+export const BLACK_COLOR = 'black';
+export const WHITE_COLOR = 'white';
+export const TEXT_NOTE_COLOR = '#A4A4A4';
+export const VIEW_BG_COLOR = '#12738C';
+export const LIGHT_GREY_COLOR = '#EBEBEB';
+export const LIGHT_GREY_BG_COLOR = '#F6F6F6';
+export const PaARROT_GREEN_COLOR = '#43E243';
+export const STATUS_BAR_COLOR = 'white';
